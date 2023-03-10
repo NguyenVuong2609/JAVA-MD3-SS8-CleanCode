@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1f962bc-2b5b-45f5-99bd-469a65492201" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MD3-SS8-CleanCode.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MoBRZo5KRR0NWR9T8SITj6Fel3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.CalculatorTest.testCalculateWrongOperator">
+    <configuration name="CalculatorTest.testCalculateDiv" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MD3-SS8-CleanCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Rikkei.academy.TH1_Refactoring.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Rikkei.academy.TH1_Refactoring.test" />
+      <option name="MAIN_CLASS_NAME" value="Rikkei.academy.TH1_Refactoring.test.CalculatorTest" />
+      <option name="METHOD_NAME" value="testCalculateDiv" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.testCalculateDivByZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MD3-SS8-CleanCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Rikkei.academy.TH1_Refactoring.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Rikkei.academy.TH1_Refactoring.test" />
+      <option name="MAIN_CLASS_NAME" value="Rikkei.academy.TH1_Refactoring.test.CalculatorTest" />
+      <option name="METHOD_NAME" value="testCalculateDivByZero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.testCalculateMul" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MD3-SS8-CleanCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Rikkei.academy.TH1_Refactoring.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Rikkei.academy.TH1_Refactoring.test" />
+      <option name="MAIN_CLASS_NAME" value="Rikkei.academy.TH1_Refactoring.test.CalculatorTest" />
+      <option name="METHOD_NAME" value="testCalculateMul" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.testCalculateSub" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MD3-SS8-CleanCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Rikkei.academy.TH1_Refactoring.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Rikkei.academy.TH1_Refactoring.test" />
+      <option name="MAIN_CLASS_NAME" value="Rikkei.academy.TH1_Refactoring.test.CalculatorTest" />
+      <option name="METHOD_NAME" value="testCalculateSub" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.testCalculateWrongOperator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MD3-SS8-CleanCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Rikkei.academy.TH1_Refactoring.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Rikkei.academy.TH1_Refactoring.test" />
+      <option name="MAIN_CLASS_NAME" value="Rikkei.academy.TH1_Refactoring.test.CalculatorTest" />
+      <option name="METHOD_NAME" value="testCalculateWrongOperator" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CalculatorTest.testCalculateWrongOperator" />
+        <item itemvalue="JUnit.CalculatorTest.testCalculateDivByZero" />
+        <item itemvalue="JUnit.CalculatorTest.testCalculateDiv" />
+        <item itemvalue="JUnit.CalculatorTest.testCalculateMul" />
+        <item itemvalue="JUnit.CalculatorTest.testCalculateSub" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1f962bc-2b5b-45f5-99bd-469a65492201" name="Changes" comment="" />
+      <created>1678424050902</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678424050902</updated>
+      <workItem from="1678424051671" duration="2020000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
