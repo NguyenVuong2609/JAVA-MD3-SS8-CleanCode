@@ -5,17 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1f962bc-2b5b-45f5-99bd-469a65492201" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MD3-SS8-CleanCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/TH2_RefactoringSplitVariables/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/TH2_RefactoringSplitVariables/Test/FizzBuzzTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/TH3_RefactoringSplitMethod/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/TH3_RefactoringSplitMethod/Test/CylinderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MD3-SS8-CleanCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MD3-SS8-CleanCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rikkei/academy/TH1_Refactoring/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rikkei/academy/TH1_RefactoringChangeVariableName/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rikkei/academy/TH1_Refactoring/test/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rikkei/academy/TH1_RefactoringChangeVariableName/test/CalculatorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -39,98 +48,105 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.CalculatorTest.testCalculateWrongOperator">
-    <configuration name="CalculatorTest.testCalculateDiv" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.CylinderTest.testGetVolume1And2">
+    <configuration name="CylinderTest.testGetVolume0And0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MD3-SS8-CleanCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Rikkei.academy.TH1_Refactoring.test.*" />
+          <option name="PATTERN" value="Rikkei.academy.TH3_RefactoringSplitMethod.Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Rikkei.academy.TH1_Refactoring.test" />
-      <option name="MAIN_CLASS_NAME" value="Rikkei.academy.TH1_Refactoring.test.CalculatorTest" />
-      <option name="METHOD_NAME" value="testCalculateDiv" />
+      <option name="PACKAGE_NAME" value="Rikkei.academy.TH3_RefactoringSplitMethod.Test" />
+      <option name="MAIN_CLASS_NAME" value="Rikkei.academy.TH3_RefactoringSplitMethod.Test.CylinderTest" />
+      <option name="METHOD_NAME" value="testGetVolume0And0" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorTest.testCalculateDivByZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CylinderTest.testGetVolume1And2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MD3-SS8-CleanCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Rikkei.academy.TH1_Refactoring.test.*" />
+          <option name="PATTERN" value="Rikkei.academy.TH3_RefactoringSplitMethod.Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Rikkei.academy.TH1_Refactoring.test" />
-      <option name="MAIN_CLASS_NAME" value="Rikkei.academy.TH1_Refactoring.test.CalculatorTest" />
-      <option name="METHOD_NAME" value="testCalculateDivByZero" />
+      <option name="PACKAGE_NAME" value="Rikkei.academy.TH3_RefactoringSplitMethod.Test" />
+      <option name="MAIN_CLASS_NAME" value="Rikkei.academy.TH3_RefactoringSplitMethod.Test.CylinderTest" />
+      <option name="METHOD_NAME" value="testGetVolume1And2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorTest.testCalculateMul" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FizzBuzzTest.testBuzz10" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MD3-SS8-CleanCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Rikkei.academy.TH1_Refactoring.test.*" />
+          <option name="PATTERN" value="Rikkei.academy.TH2_RefactoringSplitVariables.Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Rikkei.academy.TH1_Refactoring.test" />
-      <option name="MAIN_CLASS_NAME" value="Rikkei.academy.TH1_Refactoring.test.CalculatorTest" />
-      <option name="METHOD_NAME" value="testCalculateMul" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="Rikkei.academy.TH2_RefactoringSplitVariables.Test" />
+      <option name="MAIN_CLASS_NAME" value="Rikkei.academy.TH2_RefactoringSplitVariables.Test.FizzBuzzTest" />
+      <option name="METHOD_NAME" value="testBuzz10" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorTest.testCalculateSub" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FizzBuzzTest.testFizzBuzz15" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MD3-SS8-CleanCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Rikkei.academy.TH1_Refactoring.test.*" />
+          <option name="PATTERN" value="Rikkei.academy.TH2_RefactoringSplitVariables.Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Rikkei.academy.TH1_Refactoring.test" />
-      <option name="MAIN_CLASS_NAME" value="Rikkei.academy.TH1_Refactoring.test.CalculatorTest" />
-      <option name="METHOD_NAME" value="testCalculateSub" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="Rikkei.academy.TH2_RefactoringSplitVariables.Test" />
+      <option name="MAIN_CLASS_NAME" value="Rikkei.academy.TH2_RefactoringSplitVariables.Test.FizzBuzzTest" />
+      <option name="METHOD_NAME" value="testFizzBuzz15" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorTest.testCalculateWrongOperator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FizzBuzzTest.testFizzBuzz30" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MD3-SS8-CleanCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Rikkei.academy.TH1_Refactoring.test.*" />
+          <option name="PATTERN" value="Rikkei.academy.TH2_RefactoringSplitVariables.Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Rikkei.academy.TH1_Refactoring.test" />
-      <option name="MAIN_CLASS_NAME" value="Rikkei.academy.TH1_Refactoring.test.CalculatorTest" />
-      <option name="METHOD_NAME" value="testCalculateWrongOperator" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="Rikkei.academy.TH2_RefactoringSplitVariables.Test" />
+      <option name="MAIN_CLASS_NAME" value="Rikkei.academy.TH2_RefactoringSplitVariables.Test.FizzBuzzTest" />
+      <option name="METHOD_NAME" value="testFizzBuzz30" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CalculatorTest.testCalculateWrongOperator" />
-        <item itemvalue="JUnit.CalculatorTest.testCalculateDivByZero" />
-        <item itemvalue="JUnit.CalculatorTest.testCalculateDiv" />
-        <item itemvalue="JUnit.CalculatorTest.testCalculateMul" />
-        <item itemvalue="JUnit.CalculatorTest.testCalculateSub" />
+        <item itemvalue="JUnit.CylinderTest.testGetVolume1And2" />
+        <item itemvalue="JUnit.CylinderTest.testGetVolume0And0" />
+        <item itemvalue="TestNG.FizzBuzzTest.testFizzBuzz30" />
+        <item itemvalue="TestNG.FizzBuzzTest.testFizzBuzz15" />
+        <item itemvalue="TestNG.FizzBuzzTest.testBuzz10" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +158,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678424050902</updated>
-      <workItem from="1678424051671" duration="2020000" />
+      <workItem from="1678424051671" duration="3471000" />
     </task>
     <servers />
   </component>

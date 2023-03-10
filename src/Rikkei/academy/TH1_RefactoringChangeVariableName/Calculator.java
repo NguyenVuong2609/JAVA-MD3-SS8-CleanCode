@@ -1,4 +1,4 @@
-package Rikkei.academy.TH1_Refactoring;
+package Rikkei.academy.TH1_RefactoringChangeVariableName;
 
 public class Calculator {
 

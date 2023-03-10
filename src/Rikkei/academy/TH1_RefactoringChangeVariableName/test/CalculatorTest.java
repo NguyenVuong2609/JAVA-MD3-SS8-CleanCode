@@ -1,6 +1,6 @@
-package Rikkei.academy.TH1_Refactoring.test;
+package Rikkei.academy.TH1_RefactoringChangeVariableName.test;
 
-import Rikkei.academy.TH1_Refactoring.Calculator;
+import Rikkei.academy.TH1_RefactoringChangeVariableName.Calculator;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
