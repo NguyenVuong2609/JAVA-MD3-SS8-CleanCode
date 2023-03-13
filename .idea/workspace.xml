@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1f962bc-2b5b-45f5-99bd-469a65492201" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/BT1_RefactoringPractice/TennisGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MD3-SS8-CleanCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MD3-SS8-CleanCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rikkei/academy/BT1_RefactoringPractice/TennisGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rikkei/academy/BT1_RefactoringPractice/TennisGame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +155,8 @@
       <updated>1678424050902</updated>
       <workItem from="1678424051671" duration="4948000" />
       <workItem from="1678673024152" duration="1489000" />
-      <workItem from="1678678811703" duration="4236000" />
+      <workItem from="1678678811703" duration="4268000" />
+      <workItem from="1678691182670" duration="1615000" />
     </task>
     <servers />
   </component>
